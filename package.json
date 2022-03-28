@@ -10,10 +10,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
     "@react-navigation/native": "^6.0.8",
->>>>>>> 49a0a419f325576356d96020a84f47322a67a341
     "expo": "^1.0.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
